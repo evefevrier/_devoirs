@@ -18,14 +18,10 @@ En sanskrit, le causatif peut régir **deux accusatifs** :
 
 ## 2\. Proposition de phrase
 
-\[
-\boxed{
-आचार्यः शिष्यान् धर्मम् अध्यापयत्।
-\quad
-(ācāryaḥ\ śiṣyān\ dharmam\ adhyāpayat)
-}
-\]
-
+ 
+> आचार्यः शिष्यान् धर्मम् अध्यापयत्।
+> ācāryaḥ\ śiṣyān\ dharmam\ adhyāpayat)
+ 
 - **आचार्यः (ācāryaḥ)** : « le maître / le professeur » (nominatif sing.)  
 - **शिष्यान् (śiṣyān)** : « les étudiants » (accusatif plur.)  
 - **धर्मम् (dharmam)** : « le dharma » (accusatif sing.)  

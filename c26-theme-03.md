@@ -20,7 +20,7 @@ En sanskrit, le causatif peut régir **deux accusatifs** :
 
  
 > आचार्यः शिष्यान् धर्मम् अध्यापयत्।
-> ācāryaḥ\ śiṣyān\ dharmam\ adhyāpayat)
+> ācāryaḥ śiṣyān dharmam adhyāpayat)
  
 - **आचार्यः (ācāryaḥ)** : « le maître / le professeur » (nominatif sing.)  
 - **शिष्यान् (śiṣyān)** : « les étudiants » (accusatif plur.)  

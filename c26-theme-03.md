@@ -7,7 +7,7 @@
 
 ## 1\. Le verbe sanskrit « étudier » (adhī) et sa forme causative
 
-- La racine sanskrite √अधी् (*adhī*) signifie « étudier, lire, apprendre ».  
+- La racine sanskrite अधी् (*adhī*) signifie « étudier, lire, apprendre ».  
 - Sa forme causative (*adhyāpayati*, etc.) signifie « faire étudier » → « enseigner ».  
 
 En sanskrit, le causatif peut régir **deux accusatifs** :  
@@ -29,7 +29,7 @@ En sanskrit, le causatif peut régir **deux accusatifs** :
 - **आचार्यः (ācāryaḥ)** : « le maître / le professeur » (nominatif sing.)  
 - **शिष्यान् (śiṣyān)** : « les étudiants » (accusatif plur.)  
 - **धर्मम् (dharmam)** : « le dharma » (accusatif sing.)  
-- **अध्यापयत् (adhyāpayat)** : forme à l’imparfait 3ᵉ pers. sg. du causatif de √अधी्, « il/elle enseigna ».  
+- **अध्यापयत् (adhyāpayat)** : forme à l’imparfait 3ᵉ pers. sg. du causatif de अधी्, « il/elle enseigna ».  
 
 **Traduction littérale** : « Le maître enseigna le dharma aux étudiants. »  
 

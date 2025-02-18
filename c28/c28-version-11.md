@@ -1,6 +1,6 @@
 # Leçon 28 - VERSION - #11
-अन्यान्निग्रहीतुं बलं प्रयुञ्जाना नंक्ष्यन्ति 
-anyānnigrahītuṃ balaṃ prayuñjānā naṃkṣyanti (nanksyanti) 
+>__अन्यान्निग्रहीतुं बलं प्रयुञ्जाना नंक्ष्यन्ति   
+anyānnigrahītuṃ balaṃ prayuñjānā naṃkṣyanti (nanksyanti)__ 
 
 > « Quiconque use de la force pour opprimer autrui finira par être détruit. »
 
